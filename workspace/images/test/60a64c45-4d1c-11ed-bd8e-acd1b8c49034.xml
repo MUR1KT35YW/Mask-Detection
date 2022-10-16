@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>60a64c45-4d1c-11ed-bd8e-acd1b8c49034.jpg</filename>
+	<path>C:\Users\Prince\OneDrive\Desktop\mask_detection\images\all_images\60a64c45-4d1c-11ed-bd8e-acd1b8c49034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>243</ymin>
+			<xmax>495</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
